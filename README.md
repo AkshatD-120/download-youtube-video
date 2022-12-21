@@ -16,7 +16,9 @@ Allows to search and download YouTube video.
 <br />
 <br />
 **PREVIEW:**
-![image](https://user-images.githubusercontent.com/98334833/208937224-1043899e-feb0-4d02-88c7-0771b0c26e63.png)
+![image](https://user-images.githubusercontent.com/98334833/208941422-2c886936-2fc3-47d0-9803-93eacc5aebb5.png)
 <br />
-![image](https://user-images.githubusercontent.com/98334833/208941004-aa7e438e-120b-4917-a550-7d2b1d3ee17b.png)
+<br />
+![image](https://user-images.githubusercontent.com/98334833/208941644-06b410d0-f780-459b-a9f2-190ff9d63731.png)
+
 
