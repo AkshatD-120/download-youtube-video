@@ -15,10 +15,10 @@ Allows to search and download YouTube video.
     
 <br />
 <br />
-**PREVIEW:**  
+**PREVIEW:**   
+
 ![image](https://user-images.githubusercontent.com/98334833/208941422-2c886936-2fc3-47d0-9803-93eacc5aebb5.png)
-<br />
-<br />
+
 ![image](https://user-images.githubusercontent.com/98334833/208941644-06b410d0-f780-459b-a9f2-190ff9d63731.png)
 
 
