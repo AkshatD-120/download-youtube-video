@@ -7,11 +7,14 @@ Allows to search and download YouTube video.
   >`pip install -r requirements.txt` #This will download all the required necessary packages  
     
 2. Run:  
-  >Run the main.py file and just follow the prompts
-   
+  >Run the main.py file and just follow the prompts  
+
+ <br />
+ <hr>
+ 
  **NOTE:** By defualt, It will download .mp4 videos.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Currently, there is no option to choose which format to download except for to edit this specific code and enter "format" :  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`myStream = vidId.streams.filter(file_extension = "VIDEO FORMAT HERE",res=resolution).first()`
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Currently, there is no option to choose which format to download except for to edit this specific code and enter "format" :  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`myStream = vidId.streams.filter(file_extension = "VIDEO FORMAT HERE",res=resolution).first()`
     
 <br />
 <br />
