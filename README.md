@@ -11,10 +11,11 @@ Allows to search and download YouTube video.
    
  **NOTE:** By defualt, It will download .mp4 videos.  
            Currently, there is no option to choose which format to download except for to edit this specific code and enter "format" :  
-            >`myStream = vidId.streams.filter(file_extension = "VIDEO FORMAT HERE",res=resolution).first()`
+            `myStream = vidId.streams.filter(file_extension = "VIDEO FORMAT HERE",res=resolution).first()`
     
 <br />
 <br />
+
 **PREVIEW:**   
 
 ![image](https://user-images.githubusercontent.com/98334833/208941422-2c886936-2fc3-47d0-9803-93eacc5aebb5.png)
