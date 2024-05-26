@@ -16,14 +16,14 @@ def GetTitle(s,index):
 def Download(vidId):
     filePath = input("Enter, where to save video(eg: C:\Somefile): ")
     resolution = input("Enter video resolution (360p,480p,720p => Always works,1080p): ")  
-    print("Getting Video files....(ETA: 20s)")
+    print("Getting Video files...")
     myStream = vidId.streams.filter(file_extension = "mp4",res=resolution).first()
     
     """
 	Failed ETA Timer but tells people not to close
 	Will fix in future hopefully :D
     """
-    print("Downloading video....(ETA: Depends on Speed)")
+    print("Downloading video...")
     myStream.download(filePath)
     
 def main():
